@@ -42,7 +42,8 @@ pip install pandas numpy
  pip install twine
  twine upload dist/* 
  #enter the token accesing from pypi site after login and authenticator from authenticator app the you can add token for specific project
-
+## Validation
+python>=3.6
 
 
 
