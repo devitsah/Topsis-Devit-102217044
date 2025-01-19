@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="Topsis-Devit-102217044",
-    version="1.0.0",
+    version="1.0.1",
     author="Devit Sah",
     author_email="dsah_be22@thapar.edu",
     long_description=description,
